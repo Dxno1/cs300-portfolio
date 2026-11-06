@@ -33,7 +33,7 @@ HTML, CSS, JavaScript, MySQL, and GitHub.
 My portfolio website is published using GitHub Pages.
 
 Live website: Add your GitHub Pages link here.
-
+https://github.com/Dxno1/cs300-portfolio
 ## Image and Resource Credits
 
 Add credits for any images, fonts, or other resources used.
