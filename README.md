@@ -32,5 +32,5 @@ HTML, CSS, JavaScript, MySQL, and GitHub.
 
 My portfolio website is published using GitHub Pages.
 
-Live website: https://github.com/Dxno1/cs300-portfolio
+Live website: (https://dxno1.github.io/cs300-portfolio/)
 
